@@ -30,6 +30,6 @@ Make sure you have the following installed:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/production_approach_backend.git
+git clone https://github.com/rohitneogi-a/Learn_backend.git
 cd production_approach_backend
 npm install
